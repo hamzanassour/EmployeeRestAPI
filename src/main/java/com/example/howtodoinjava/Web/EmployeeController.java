@@ -1,7 +1,7 @@
-package com.example.employeerestapi.Web;
+package com.example.howtodoinjava.Web;
 
-import com.example.employeerestapi.Entity.Employee;
-import com.example.employeerestapi.Service.EmployeeService;
+import com.example.howtodoinjava.Entity.Employee;
+import com.example.howtodoinjava.Service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

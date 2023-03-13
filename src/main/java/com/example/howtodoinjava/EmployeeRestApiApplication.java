@@ -1,4 +1,4 @@
-package com.example.employeerestapi;
+package com.example.howtodoinjava;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.example.employeerestapi.Entity;
+package com.example.howtodoinjava.Entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

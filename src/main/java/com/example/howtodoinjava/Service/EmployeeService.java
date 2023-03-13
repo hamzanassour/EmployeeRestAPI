@@ -1,7 +1,7 @@
-package com.example.employeerestapi.Service;
+package com.example.howtodoinjava.Service;
 
-import com.example.employeerestapi.Entity.Employee;
-import com.example.employeerestapi.Repository.EmployeeRepository;
+import com.example.howtodoinjava.Entity.Employee;
+import com.example.howtodoinjava.dao.Repository.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
